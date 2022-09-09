@@ -1,3 +1,3 @@
 # solve git issues
 remote changes2
-local changes
+local changes2
